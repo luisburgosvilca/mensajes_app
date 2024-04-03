@@ -1,0 +1,9 @@
+target/mensajes_app-1.0-SNAPSHOT.jar
+target/classes/.netbeans_automatic_build
+target/classes/com/platzi/mensajes_app/Conexion.class
+target/classes/com/platzi/mensajes_app/Inicio.class
+target/maven-archiver/pom.properties
+target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+target/test-classes/.netbeans_automatic_build

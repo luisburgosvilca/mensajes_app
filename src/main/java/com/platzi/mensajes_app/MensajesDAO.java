@@ -54,8 +54,8 @@ public class MensajesDAO {
             PreparedStatement ps = null;
             
             String query = "SELECT * FROM mensajes";
-            ps =  conexion.prepareStatement(query);
-            rs=ps.executeQuery();
+            ps = conexion.prepareStatement(query);
+            rs = ps.executeQuery();
             
             while(rs.next()){
                 
